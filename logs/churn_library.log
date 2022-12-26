@@ -1,0 +1,18 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - File Churn_Histogram was found
+root - INFO - File CustomerAge_Histogram was found
+root - INFO - File Marital_Status_count was found
+root - INFO - File Total_transaction_distribution was found
+root - INFO - File Heatmap was found
+root - INFO - Testing encoder_helper with void category list: SUCCESS
+root - INFO - Testing encoder_helper with void response: SUCCESS
+root - INFO - Testing encoder_helper with full category list: SUCCESS
+root - INFO - Testing perform_feature_engineering: the churn column is in the dataframe
+root - INFO - Testing perform_feature_engineering: SUCCESS
+root - INFO - Testing train_models: File logistic_model.pkl is available
+root - INFO - Testing train_models: File rfc_model.pkl is available
+root - INFO - Testing train_models: File rfc_results is available
+root - INFO - Testing train_models: File lr_results is available
+root - INFO - Testing train_models: File feature_importances is available
+root - INFO - Testing train_models: File roc_curve_result is available
